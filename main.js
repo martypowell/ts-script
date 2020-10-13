@@ -1,3 +1,3 @@
 
-  console.log('this is the start of the remote script');
+alert('this is the start of the remote script');
 
